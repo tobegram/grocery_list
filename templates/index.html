@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Einkaufsliste</title>
+    </head>
+    <body>
+        <div id=""add_item>
+            <form action="/add_items" method="post">
+                <select name="select_items">
+                {% for item in all_data %}
+                <option value="{{ item }}">{{ item }} </option>
+                {% endfor %}
+                <input type="submit" value="ADD ITEM">
+                </select>
+            </form>
+        </div>
+        <p>{{ item }} </p>
+    </body>
+</html>
+        
