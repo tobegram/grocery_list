@@ -1,9 +1,29 @@
 import sqlite3
 
 groceries = [
-	"Äpfel",
-    "Tomaten",
-    "Tomaten (passiert)"
+	"Pudding",
+    "Maultaschen",
+    "Tomaten (passiert)",
+    "Tomate (stückig)"
+    "Chilli con Carne (fertig),"
+    "Milch (Hafer)",
+    "Knoblauch",
+    "Ghee",
+    "Mehl (Dinkel Typ 610)",
+    "Butter",
+    "Kaffee (gemahlen)",
+    "Maultaschen",
+    "Schupfnudeln",
+    "Apfelmark",
+    "Gries (Dinkel)",
+    "Geschirrspülmittel",
+    "Eier",
+    "Olivenöl",
+    "Parmesan (am Stück)",
+    "Schlagsahne",
+    "Spaghetti"
+    
+    ""
 ]
 
 groceries = sorted(groceries)
