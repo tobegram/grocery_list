@@ -4,8 +4,8 @@ groceries = [
 	"Pudding",
     "Maultaschen",
     "Tomaten (passiert)",
-    "Tomate (stückig)"
-    "Chilli con Carne (fertig),"
+    "Tomate (stückig)",
+    "Chilli con Carne (fertig)",
     "Milch (Hafer)",
     "Knoblauch",
     "Ghee",
